@@ -1,0 +1,17 @@
+Body Changes
+Body
+  - Round design
+  - Radius of -mm
+  - Flattend bottom to allow for motors
+  - Hole allowing for entry to motor bay
+  - A overall length of -mm
+  - Walls are -mm thick
+Body v2
+  - Changed from round to rectangular design
+  - A width of 2x the height of the motors, -mm
+  - Center of motor axel at center of hole
+  - A overall length of -mm
+  - Height = width of the motors, -mm
+  - Walls are -mm thick
+Body v3
+  - Extended the flanche on the inside of the rim from 1/8th of an inch to 1/2 of an inch
